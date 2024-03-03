@@ -1,0 +1,51 @@
+body{
+      background-color: rgb(25, 25, 25);
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+}
+
+.title-img{
+      border-radius: 1.2px;
+}
+
+.topic{
+      font-size: 30px;
+      font-weight: bold;
+}
+
+.icon{
+      height: 50px;
+}
+
+.icon-button{
+      background-color: transparent;
+      border: 3px solid white;
+      width: 120px;
+      height: 120px;
+      border-radius: 60px;
+      margin-right: 10px;
+      cursor: pointer;
+}
+
+.result{
+      font-size: 20px;
+      margin-top: 50px;
+}
+
+.moves{
+      margin-top: 30px;
+}
+
+.score{
+      margin-top: 30px;
+}
+
+.reset-button{
+      margin-top: 20px;
+      padding: 10px 15px;
+      border: none;
+      background-color: white;
+      font-size: 15px;
+      cursor: pointer;
+
+}
